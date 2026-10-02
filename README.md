@@ -6,6 +6,19 @@ The project demonstrates backend development concepts including REST architectur
 
 ---
 
+## Links
+
+Live:- https://the-data-hub-fnsc.onrender.com/posts
+
+Video:- https://drive.google.com/file/d/10kdytIGpW8UA10OZMoc3xFB5szFEi6hg/view?usp=drive_link
+
+GitHub:- https://github.com/sakshi192004/the-data-hub
+
+
+
+
+---
+
 ## 🚀 Project Overview
 
 **The Data Hub** is a backend REST API designed to manage blog posts.
